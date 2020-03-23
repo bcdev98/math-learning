@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/math-learning/static/css/main.5f361e03.chunk.css",
+    "main.js": "/math-learning/static/js/main.17d40b7b.chunk.js",
+    "main.js.map": "/math-learning/static/js/main.17d40b7b.chunk.js.map",
+    "runtime-main.js": "/math-learning/static/js/runtime-main.07d20653.js",
+    "runtime-main.js.map": "/math-learning/static/js/runtime-main.07d20653.js.map",
+    "static/js/2.c47069dc.chunk.js": "/math-learning/static/js/2.c47069dc.chunk.js",
+    "static/js/2.c47069dc.chunk.js.map": "/math-learning/static/js/2.c47069dc.chunk.js.map",
+    "index.html": "/math-learning/index.html",
+    "precache-manifest.1a956d04fab95898b7dd5d98060368d3.js": "/math-learning/precache-manifest.1a956d04fab95898b7dd5d98060368d3.js",
+    "service-worker.js": "/math-learning/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/math-learning/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c47069dc.chunk.js.LICENSE.txt": "/math-learning/static/js/2.c47069dc.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/math-learning/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07d20653.js",
+    "static/js/2.c47069dc.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.17d40b7b.chunk.js"
+  ]
+}
